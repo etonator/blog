@@ -1,0 +1,11 @@
+[submodule "etonator/themes/digitalgarden"]
+	path = etonator/themes/digitalgarden
+	url = https://github.com/apvarun/digital-garden-hugo-theme.git
+[submodule "etonator/github-page"]
+	path = etonator/github-page
+	url = https://github.com/etonator/etonator.github.io.git
+	branch = main
+[submodule "etonator/public"]
+	path = etonator/public
+	url = https://github.com/etonator/etonator.github.io.git
+	branch = main

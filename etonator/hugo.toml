@@ -1,0 +1,4 @@
+baseURL = 'https://etonator.github.io/'
+languageCode = 'en-us'
+title = 'Blog'
+theme = 'digitalgarden'
